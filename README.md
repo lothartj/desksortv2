@@ -2,6 +2,25 @@
 
 A professional desktop organization tool that automatically sorts and organizes your files based on custom rules.
 
+## 🚀 Quick Start
+
+**Run Development Mode:**
+```bash
+npm install
+npm run dev
+```
+
+**Build Production:**
+```bash
+npm run build
+npm run make
+```
+
+## 📸 Screenshots
+
+![DeskSort Dashboard](./screenshots/dashboard.png)
+*DeskSort's main dashboard showing file organization in action*
+
 ## Features
 
 - 🔍 Automatic desktop scanning and file organization
